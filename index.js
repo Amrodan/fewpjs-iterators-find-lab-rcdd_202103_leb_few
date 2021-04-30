@@ -1,8 +1,8 @@
-const testVar = {}
-
-function testFunc() {
-  return "hi"
-}
+// const testVar = {}
+// 
+// function testFunc() {
+//   return "hi"
+// }
 
 const record = [
   {year: "2018", result: "L"},
